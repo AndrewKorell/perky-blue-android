@@ -60,7 +60,7 @@ set _SKIP=2
 if "x%~1" == "x" goto execute
 
 set CMD_LINE_ARGS=%*
-goto execute
+goto execute/home/andrew/Documents/Git/perky-blue-android
 
 :4NT_args
 @rem Get arguments from the 4NT Shell from JP Software
